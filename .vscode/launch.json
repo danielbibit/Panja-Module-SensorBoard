@@ -6,7 +6,7 @@
             "request": "launch",
             "cwd": "${workspaceRoot}",
             "name": "PlatformIO Debugger",
-            "target": "c:/Dropbox/Code/Arduino/Panja_SensorsBoard/.pioenvs/uno/firmware.elf",
+            "target": "c:/Dropbox/Code/Arduino/Panja/Panja-Module-SensorBoard/.pioenvs/uno/firmware.elf",
             "gdbpath": "C:/Users/danie/.platformio/penv/Scripts/piodebuggdb",
             "autorun": [ "source .pioinit" ]
         }
